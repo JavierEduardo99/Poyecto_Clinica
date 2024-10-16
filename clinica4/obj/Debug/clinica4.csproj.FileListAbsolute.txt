@@ -1,0 +1,7 @@
+C:\Users\jabyg\OneDrive\Escritorio\POO\Programas\clinica4\clinica4\obj\Debug\clinica4.csproj.AssemblyReference.cache
+C:\Users\jabyg\OneDrive\Escritorio\POO\Programas\clinica4\clinica4\obj\Debug\clinica4.csproj.CoreCompileInputs.cache
+C:\Users\jabyg\OneDrive\Escritorio\POO\Programas\clinica4\clinica4\bin\Debug\clinica4.exe.config
+C:\Users\jabyg\OneDrive\Escritorio\POO\Programas\clinica4\clinica4\bin\Debug\clinica4.exe
+C:\Users\jabyg\OneDrive\Escritorio\POO\Programas\clinica4\clinica4\bin\Debug\clinica4.pdb
+C:\Users\jabyg\OneDrive\Escritorio\POO\Programas\clinica4\clinica4\obj\Debug\clinica4.exe
+C:\Users\jabyg\OneDrive\Escritorio\POO\Programas\clinica4\clinica4\obj\Debug\clinica4.pdb
